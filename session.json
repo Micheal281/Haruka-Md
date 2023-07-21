@@ -3,7 +3,7 @@
     "noiseKey": {
       "private": {
         "type": "Buffer",
-        "data": "2LOk/Tddtl2uA2nO5HZLw2hAqf5paP+gaK23cGJIsWw="
+        "data": "2LOk/Tddtl2uA2nO5HZLw2hAqf5paP+gaK23cGJIsWw=
       },
       "public": {
         "type": "Buffer",
